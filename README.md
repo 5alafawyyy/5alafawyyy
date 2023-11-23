@@ -1,25 +1,25 @@
 <h1 align="center"> Hi there 👋 I'm <a href="https://5alafawyyy.github.io/"> Ahmed Khallaf.</a> 💪</h1>
-<h4 align="center"> I'm a passionate mobile app developer with a focus on FLUTTER, crafting intuitive and efficient applications. Delving into the backend realm, I also specialize in Node.js and continuously enhance my skills in DevOps methodologies.</h4>
+<h4 align="center"> Passionate about mobile app development with a focus on FLUTTER, crafting intuitive and efficient applications. I delve into the backend realm, specializing in Node.js, while continuously enhancing my skills in DevOps methodologies.</h4>
 
 
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/5alafawyyy?logo=github&label=Github%20Followers&style=non" alt="5alafawyyy" />
-    <img src="https://img.shields.io/github/stars/5alafawyyy?logo=github&label=Github%20Stars&style=non" alt="5alafawyyy" />
+    <img src="https://img.shields.io/github/followers/5alafawyyy?logo=github&label=Github%20Followers&style=flat-square" alt="5alafawyyy" />
+    <img src="https://img.shields.io/github/stars/5alafawyyy?logo=github&label=Github%20Stars&style=flat-square" alt="5alafawyyy" />
     <img alt="followers" src="https://img.shields.io/github/followers/5alafawyyy?label=Followers&style=social">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/5alafawyyy" alt="5alafawyyy" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/5alafawyyy" alt="5alafawyyy" />
     <img src="https://komarev.com/ghpvc/?username=5alafawyyy&logo=github&color=brightgreen" alt="watching_count" />
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/ahmed-khallaf-a4151213a//" alt="5alafawyyy" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/ahmed-khallaf-a4151213a/" alt="5alafawyyy" />
 </div>
 
 <br>
 <div class="row">
- Skills: Flutter - Android - Nodejs - Java - Firebase - Web Services (REST) - DevOps.
+ Skills: Flutter - Android - Node.js - Java - Firebase - Web Services (REST) - DevOps.
 </div>
 <br>
 
-- 🌍 &ensp; I'm From Egypt.
-- 🧑 &ensp; I'm Working as a freelancer ... 
-- 🌱 &ensp; I'm currently working as a Flutter Developer ❤️
+- 🌍 &ensp; Egypt-based.
+- 🧑 &ensp; Working as a freelancer. 
+- 🌱 &ensp; Currently thriving as a Flutter Developer ❤️
 
 ### Languages and Tools
 
@@ -36,7 +36,6 @@
 
 <br />
 <br />
-
 
 <details><summary><strong><h3>🤷‍♂️ GitHub Stats?</h3></strong></summary>
 
@@ -58,14 +57,6 @@
     
    </tr>
 </table>
-<!-- <table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=5alafawyyy" alt="Talha's github stats"/>    
-    </td> 
-   </tr>
-</table> -->
-
 
 <br />
 <br />
@@ -96,11 +87,11 @@
 [<img align="left" alt="5alafawyyy | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 [<img align="left" alt="5alafawyyy | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
 [<img align="left" alt="5alafawyyy | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="5alafawyyy | LinkedIn" src="https://img.shields.io/twitter/follow/sudesh78?style=social&logo=X" />][twitter]
-[<img align="left" alt="M5alafawyyy | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="5alafawyyy | Twitter" src="https://img.shields.io/twitter/follow/Ahmed__Khallaf?style=social&logo=twitter" />][twitter]
+[<img align="left" alt="5alafawyyy | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 [<img align="left" alt="5alafawyyy | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
 [<img align="left" alt="5alafawyyy | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="5alafawyyy | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="5alafawyyy | Whatsapp" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
@@ -120,3 +111,8 @@
 [vscode]: https://code.visualstudio.com
 [firebase]: https://firebase.google.com
 [java]: https://www.java.com/en
+[nodeJs]: https://nodejs.org
+[mongoDB]: https://www.mongodb.com
+[docker]: https://www.docker.com
+[appwrite]: https://appwrite.io
+[go]: https://golang.org
