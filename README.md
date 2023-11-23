@@ -29,7 +29,7 @@
 [<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][java]
 [<img align="left" alt=“Appwrite” width="26px" src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" />][appwrite]
 [<img align="left" alt=“Docker” width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />][docker]
-[<img align="left" alt=“GO” width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />][go]
+[<img align="left" alt=“GO” width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />][go]
 [<img align="left" alt=“NodeJS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][nodeJs]
 [<img align="left" alt=“MongoDB” width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />][mongoDB]
 [<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
