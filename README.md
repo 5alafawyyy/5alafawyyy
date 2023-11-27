@@ -17,11 +17,11 @@
 </div>
 <br>
 
-- 🌱 &ensp; I’m currently learning **FLUTTER Development**
+- 🌱 &ensp; Currently thriving as a Flutter Developer ❤️
 - 🌍 &ensp; Egypt-based.
 - 📫 &ensp; How to reach me **ahmedkhallaf2098@gmail.com**
 - 🧑 &ensp; Working as a freelancer. 
-- 🌱 &ensp; Currently thriving as a Flutter Developer ❤️
+
 
 ### Languages and Tools
 
