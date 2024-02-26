@@ -8,7 +8,7 @@
     <img alt="followers" src="https://img.shields.io/github/followers/5alafawyyy?label=Followers&style=social">
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=flat-square&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/5alafawyyy" alt="5alafawyyy" />
     <img src="https://komarev.com/ghpvc/?username=5alafawyyy&logo=github&color=brightgreen" alt="watching_count" />
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/ahmed-khallaf-a4151213a/" alt="5alafawyyy" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/ahmedkhallaf98" alt="5alafawyyy" />
 </div>
 
 <br>
@@ -102,7 +102,7 @@
 [mail]: mailto:ahmedkhallaf2098@gmail.com
 [twitter]: https://twitter.com/Ahmed__Khallaf
 [youtube]: https://www.youtube.com/channel/UCX83L65Wf9xy3YswdQYhRjg
-[linkedin]: https://www.linkedin.com/in/ahmed-khallaf-a4151213a/
+[linkedin]: https://www.linkedin.com/in/ahmedkhallaf98
 [github]: https://github.com/5alafawyyy
 [instagram]: https://www.instagram.com/ahmedkhallaf98/
 [facebook]: https://web.facebook.com/ahmedkhallaf2098/
