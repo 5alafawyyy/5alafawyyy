@@ -15,7 +15,7 @@
 - 🌱 **Learning:** Advanced DevOps (CI/CD, Docker, Cloud Services)
 - 👯 **Looking to collaborate on:** Open-source Flutter & Backend projects
 - 💬 **Ask me about:** Flutter, Firebase, RESTful APIs, CI/CD, DevOps
-- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf1098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [X](https://x.com/Ahmed__Khallaf)
+- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf1098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [X.com](https://x.com/Ahmed__Khallaf)
 
 ---
 
