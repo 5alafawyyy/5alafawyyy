@@ -15,7 +15,7 @@
 - 🌱 **Learning:** Advanced DevOps (CI/CD, Docker, Cloud Services, Shorebird)
 - 👯 **Looking to collaborate on:** Open-source Flutter & Backend projects
 - 💬 **Ask me about:** Flutter, Firebase, RESTful APIs, CI/CD, DevOps
-- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf2098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [Twitter](https://twitter.com/Ahmed__Khallaf)
+- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf2098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [Twitter](https://x.com/Ahmed__Khallaf)
 
 ---
 
@@ -80,7 +80,7 @@
 ### 🌟 **S Square Plus**  
 📱 [App Store](https://apps.apple.com/eg/app/s-square-plus/id1636308161) | [Google Play Store](https://play.google.com/store/apps/details?id=com.SSquare.EgyEDUAcademy)
 
-### 🌟 **فاكس للبريد السريع**  
+### 🌟 **Fax Shipping Express**  
 📱 [Google Play Store](https://play.google.com/store/apps/details?id=com.msar.fax_shipping_express)
 
 ### 🌟 **Grable App**  
@@ -94,9 +94,9 @@
 ## 🌎 **Connect With Me**
 
 <p align="left">
-  <a href="mailto:ahmedkhallaf2098@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="28px" /></a>
+  <a href="mailto:ahmedkhallaf1098@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="28px" /></a>
   <a href="https://www.linkedin.com/in/ahmedkhallaf98"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="28px" /></a>
-  <a href="https://twitter.com/Ahmed__Khallaf"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="28px" /></a>
+  <a href="https:/x.com/Ahmed__Khallaf"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="28px" /></a>
   <a href="https://wa.me/+201026701059"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="28px" /></a>
 </p>
 
