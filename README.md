@@ -12,17 +12,18 @@
 ## 👨‍💻 **Who Am I?**
 
 - 🔭 **Currently working on:** Flutter, Node.js (Express), PHP (Laravel), Python (FastAPI)
-- 🌱 **Learning:** Advanced DevOps (CI/CD, Docker, Cloud Services, Shorebird)
+- 🌱 **Learning:** Advanced DevOps (CI/CD, Docker, Cloud Services)
 - 👯 **Looking to collaborate on:** Open-source Flutter & Backend projects
 - 💬 **Ask me about:** Flutter, Firebase, RESTful APIs, CI/CD, DevOps
-- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf2098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [Twitter](https://x.com/Ahmed__Khallaf)
+- 📫 **How to reach me:** [Email](mailto:ahmedkhallaf1098@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhallaf98) | [X](https://x.com/Ahmed__Khallaf)
 
 ---
 
 ## 🛠 **Tech Stack & Tools**
 
 ### **Frontend Development**
-- JavaScript (JS), jQuery, HTML, CSS
+- Mobile: Flutter and Dart
+- Web: JavaScript (JS), jQuery, HTML, CSS
 
 ### **Backend Development**
 - Node.js (Express.js), MongoDB
@@ -64,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=5alafawyyy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5alafawyyy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=5alafawyyy&theme=dark&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
 </p>
 
 ---
