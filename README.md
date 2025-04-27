@@ -46,6 +46,10 @@
 
 ---
 
+![Ahmed's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=5alafawyyy&theme=react-dark)
+
+---
+
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
