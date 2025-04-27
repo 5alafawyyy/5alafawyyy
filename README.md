@@ -79,7 +79,7 @@
 ## 🚀 **My Deployed Projects**
 
 ### 🌟 **EDUVA**  
-📱 [Google Play Store](https://play.google.com/store/apps/details?id=com.mutqana.eduva&hl=en)
+📱 [Google Play Store](https://play.google.com/store/apps/details?id=com.mutqana.eduva&hl=en) | [App Gallery](https://appgallery.huawei.com/app/C111561265?sharePrepath=ag&locale=ar_SA&source=appshare&subsource=C111561265&shareTo=com.android.bluetooth&shareFrom=appmarket&shareIds=939020438f6349699ff4a7684db4cd5a_com.android.bluetooth&callType=SHARE)
 
 ### 🌟 **S Square**  
 📱 [App Store](https://apps.apple.com/eg/app/s-square/id1591739831) | [Google Play Store](https://play.google.com/store/apps/details?id=com.flasherCheetah.speedAndSuccess.speed_and_success&hl=en)
