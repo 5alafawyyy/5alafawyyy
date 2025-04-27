@@ -20,6 +20,8 @@
 ---
 
 ## 🛠 **Tech Stack & Tools**
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 
 ### **Frontend Development**
 - Mobile: Flutter and Dart
